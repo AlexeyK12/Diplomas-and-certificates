@@ -26,4 +26,7 @@
 |9      |[Data Science - CatBoost](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Data%20Science%20-%20CatBoost.pdf)|Stepik, Глеб Михайлов|
 |10      |[Feature Engineering](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Kaggle%20Feature%20Engineering.png)|Kaggle|
 |11     |[Time Series](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Kaggle%20Time%20Series.png)|Kaggle|
+|12     |[Введение в облачные технологии](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Введение%20в%20облачные%20технологии.png)|Корпоративный Университет Сбербанка|
+|13     |[Жизненный цикл DS_AI моделей](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Жизненный%20цикл%20DS_AI%20моделей.png)|Корпоративный Университет Сбербанка|
+
 
