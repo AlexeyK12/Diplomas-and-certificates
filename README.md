@@ -16,7 +16,7 @@
 | Номер | Название курса    | Учебная организация                                              |        
 |-------|-------------------|------------------------------------------------------------------|
 |1      |[Управление эффективностью](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Управление%20эффективностью.pdf)|Корпоративный университет правительства Нижегородской области|
-|2      |[Основы работы с данными](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Основы%20работы%20с%20данными.pdf)|Stepik, Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации|
+|2      |[Основы работы с данными](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Основы%20работы%20с%20данными.pdf)|Stepik, РАНХиГС|
 |3      |[Product Analytics](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/product_analytics.pdf)|DevtoDev EDVICE|
 |4      |[Минимум по линейной алгебре](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Линейная%20алгебра.pdf)|Stepik|
 |5      |[Основы статистики](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Основы%20статистики.pdf)|Stepik, Институт биоинформатики, Анатолий Карпов|
