@@ -26,12 +26,13 @@
 |6      |[Введение в Python и Алгоритмы](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Введение%20в%20Python%20и%20Алгоритмы.png)|Корпоративный Университет Сбербанка|
 |7      |[Python для анализа данных](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Python%20для%20анализа%20данных.png)|Корпоративный Университет Сбербанка|
 |8      |[Введение в Data Science и машинное обучение](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Data%20Science%20и%20машинное%20обучение.pdf)|Stepik, Институт биоинформатики, Анатолий Карпов|
-|9      |[Data Science - CatBoost](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Data%20Science%20-%20CatBoost.pdf)|Stepik, Глеб Михайлов|
-|10      |[Feature Engineering](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Kaggle%20Feature%20Engineering.png)|Kaggle|
-|11     |[Time Series](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Kaggle%20Time%20Series.png)|Kaggle|
-|12     |[Введение в облачные технологии](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Введение%20в%20облачные%20технологии.png)|Корпоративный Университет Сбербанка|
-|13     |[Жизненный цикл DS_AI моделей](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Жизненный%20цикл%20DS_AI%20моделей.png)|Корпоративный Университет Сбербанка|
-|14     |[Машинное обучение](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Машинное%20обучение.png)|Корпоративный Университет Сбербанка|
+|9      |[Элементы математической статистики для анализа данных](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Элементы%20математической%20статистики%20для%20анализа%20данных.png)|Корпоративный Университет Сбербанка|
+|10      |[Data Science - CatBoost](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Data%20Science%20-%20CatBoost.pdf)|Stepik, Глеб Михайлов|
+|11      |[Feature Engineering](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Kaggle%20Feature%20Engineering.png)|Kaggle|
+|12     |[Time Series](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Kaggle%20Time%20Series.png)|Kaggle|
+|13     |[Введение в облачные технологии](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Введение%20в%20облачные%20технологии.png)|Корпоративный Университет Сбербанка|
+|14     |[Жизненный цикл DS_AI моделей](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Жизненный%20цикл%20DS_AI%20моделей.png)|Корпоративный Университет Сбербанка|
+|15     |[Машинное обучение](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Машинное%20обучение.png)|Корпоративный Университет Сбербанка|
 
 
 
