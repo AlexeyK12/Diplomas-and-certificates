@@ -33,6 +33,7 @@
 |13     |[Введение в облачные технологии](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Введение%20в%20облачные%20технологии.png)|Корпоративный Университет Сбербанка|
 |14     |[Жизненный цикл DS_AI моделей](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Жизненный%20цикл%20DS_AI%20моделей.png)|Корпоративный Университет Сбербанка|
 |15     |[Машинное обучение](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Машинное%20обучение.png)|Корпоративный Университет Сбербанка|
+|16     |[Тренировки по ML](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/1eed3d3e-7142-431e-838c-4f90c55479a0.pdf)|Яндекс & ШАД|
 
 
 
