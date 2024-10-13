@@ -42,6 +42,7 @@
 |19     |[Теория вероятностей и математическая статистика для анализа данных](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Теория%20вероятностей%20и%20математическая%20статистика%20для%20анализа%20данных.png)|Корпоративный Университет Сбербанка|
 |20     |[A/B-тесты](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/AB-тесты.pdf)|Stepik|
 |21     |[Телеграм-боты с LLM](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/AI-ARROW.pdf)|AI-ARROW|
+|22     |[Основы программирования на С/С++](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Основы%20программирования%20С_С%2B%2B.pdf)|Stepik|
 
 
 
