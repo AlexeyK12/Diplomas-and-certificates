@@ -43,6 +43,7 @@
 |20     |[A/B-тесты](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/AB-тесты.pdf)|Stepik|
 |21     |[Телеграм-боты с LLM](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/AI-ARROW.pdf)|AI-ARROW|
 |22     |[Основы программирования на С/С++](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/Основы%20программирования%20С_С%2B%2B.pdf)|Stepik|
+|23     |[Computer Vision](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/AI-ARROW_Autumn.pdf)|Осенний буткемп AI-ARROW-Autumn|
 
 
 
